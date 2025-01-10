@@ -1,6 +1,10 @@
 # Personal Portfolio 
 Forked from [varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io)
 
+# TO-DO
+- Add a PDF to you resume. 
+- Modify resume portion of nav class 3
+
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
