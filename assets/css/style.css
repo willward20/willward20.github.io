@@ -457,7 +457,7 @@ h3 {
 }
 
 #experience .card .card-title a {
-  text-transform: none; /* Disable uppercase transformation */
+  text-transform: none !important; /* Disable uppercase transformation */
   margin: 0; /* Adjust margin if necessary */
 }
 
