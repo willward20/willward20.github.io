@@ -499,6 +499,17 @@ a.hoverline:hover {
   display: table-cell;
 }
 
+/*NEW STUFF to fix the width issue in skills section*/
+#skills .container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch; /* Ensures all cards stretch to the same width */
+}
+
+#skills .card {
+  width: 100%; /* Consistent width for all cards */
+}
+
 .card.large .card-content p {
   color: inherit;
   margin: 0;
