@@ -450,6 +450,10 @@ h3 {
   font-size: 24px;
 }
 
+#experience .card .card-title a {
+  text-transform: none !important; /* Disable uppercase transformation */
+}
+
 .card .card-content .card-title {
   line-height: 2.5rem;
 }
