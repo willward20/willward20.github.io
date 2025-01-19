@@ -58,10 +58,25 @@
   color: #0077b5;
 }
 
-.youtube {
+/* .youtube {
   background-color: #ff0000;
+} */
+
+.icon-btn.youtube {
+  background-color: transparent; /* Set the background color if needed */
+  border: none; /* Optional: Remove button border */
+  cursor: pointer; /* Change cursor on hover */
 }
 
+.icon-btn.youtube i {
+  color: #FF0000; /* YouTube red */
+  font-size: 24px; /* Adjust size if necessary */
+  transition: color 0.3s; /* Smooth transition for hover effect */
+}
+
+.icon-btn.youtube:hover i {
+  color: #C4302B; /* Slightly darker red for hover */
+}
 
 .angellist {
   color: grey;
@@ -76,9 +91,9 @@
   background-color: #0077b5;
 }
 
-.youtube:hover {
+/* .youtube:hover {
   background-color: #910000;
-}
+} */
 
 .angellist:hover {
   background-color: grey;
