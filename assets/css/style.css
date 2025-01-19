@@ -64,7 +64,7 @@
 
 .icon-btn.youtube {
   /* background-color: transparent; Set the background color if needed */
-  border: none; /* Optional: Remove button border */
+  border: 0; /* Optional: Remove button border */
   cursor: pointer; /* Change cursor on hover */
 }
 
