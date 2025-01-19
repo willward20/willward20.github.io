@@ -598,6 +598,16 @@ small {
   object-fit: cover;
 }
 
+.project-card-content ul {
+  list-style: disc; /* Ensures bullets are displayed */
+  margin-left: 20px; /* Adds space to align bullets properly */
+  padding-left: 0;   /* Adjust if needed based on other styles */
+}
+
+.project-card-content li {
+  margin-bottom: 8px; /* Adds space between list items (optional) */
+}
+
 
 @media (min-width: 1200px) {
   #experience .container {
