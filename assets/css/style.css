@@ -628,6 +628,8 @@ small {
   flex: 1;
   position: relative;
   overflow: hidden;
+  width: 100%; /* Ensure it takes up the container's width */
+  height: 300px; /* Set a fixed height for the carousel */
 }
 
 .project-carousel-images {
