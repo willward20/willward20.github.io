@@ -9,7 +9,7 @@ skills:
 - PyTorch
 - Unity
 - Neural Networks
-- MPC
+- Model Predictive Control
 main-image: /robot-sim.png
 ---
 
