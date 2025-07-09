@@ -20,19 +20,22 @@ Mobile robots driving in off-road environments face rapidly changing terrain con
 ## Overall Framework
 [comment]: <We enable online terrain adaptation using **function encoders**. Function encoders use a small set of neural networks to quickly represent new dynamics models from limited data, allowing a robot to adapt to new terrain without retraining. We break down the process of training and deploying function encoders for terrain adaptation in two phases:>
 
+{% include image-gallery.html images="figure1.png" height="400" %}
+
 1. **Offline:** Train a function encoder (set of neural networks) to capture a robot's driving dynamics on known terrains.
 2. **Online:** Align the function encoder to represent the dynamcis of a **new terrain** using a simple least-squares algorithm.
 
-{% include image-gallery.html images="figure1.png" height="400" %}
 
 ## Successful Adaptation to Challenging Ice Terrain
+
+{% include image-gallery.html images="function-encoder-navigation.png" height="400" %}
+
 * We train a function encoder on driving data from a Unity simulation.
 * At runtime, the function encoder successfully adapts to a **challenging, unknown icy terrain.**
 * The robot uses MPPI control to navigate on the ice, reaching waypoint goals while avoiding trees.  ​
   
 [comment]: <our approach on a wheled robot in a Unity-based simulation. After training the function encoder on six terrains, we deploy the robot on an **unknown, slippery ice terrain**. Then, the robot uses model predictive control (MPC) to navigate through a forest environment while avoiding trees. Despite the challenging terrain, the robot reaches every waypoint with no collisions.>
 
-{% include image-gallery.html images="function-encoder-navigation.png" height="400" %}
 
 ## Technical Contributions
 * Trained neural network dynamics models that accurately predict a robot's control response (PyTorch).
