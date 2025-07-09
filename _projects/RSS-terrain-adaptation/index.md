@@ -42,5 +42,7 @@ Mobile robots driving in off-road environments face rapidly changing terrain con
 ## Publication
 **W. Ward**, S. Etter, T. Ingebrand, C. Ellis, A. J. Thorpe, U. Topcu, "[Online Adaptation of Terrain-Aware Dynamics for Planning in Unstructured Environments](https://arxiv.org/abs/2506.04484)," RSS Workshop on Resilient Off-road Autonomous Robotics (2025).
 
-## Master's Thesis
-W. Ward, "Terrain Adaptation for Autonomous Navigation and Model Predictive Control", The University of Texas at Austin (2025). 
+## Additional Details
+* Poster presented at RSS Workshop on Resilient Off-road Autonomous Robotics: [Poster](https://github.com/willward20/willward20.github.io/blob/main/_projects/RSS-terrain-adaptation/RSS-ROAR-poster.pdf)
+* ROS package for calculating MPPI rollouts using the learned model on GitHub: [willward20/mppi_rollouts](https://github.com/willward20/mppi_rollouts).
+* Function encoder training/testing software on GitHub: [ajthor/function-encoder-terrain-adaptation](https://github.com/ajthor/function-encoder-terrain-adaptation/tree/main).
