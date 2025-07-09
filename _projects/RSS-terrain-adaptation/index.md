@@ -25,7 +25,7 @@ We enable online terrain adaptation using **function encoders**. Function encode
 
 {% include image-gallery.html images="figure1.png" height="400" %}
 
-## Key Result: Adaptation Enables Safer Model Predictive Control
+## Adaptation Enables Safer Model Predictive Control
 We test our approach on a wheled robot in a Unity-based simulation. After training the function encoder on six terrains, we deploy the robot on an **unknown, slippery ice terrain**. Then, the robot uses model predictive control (MPC) to navigate through a forest environment while avoiding trees. Despite the challenging terrain, the robot reaches every waypoint with no collisions. 
 
 {% include image-gallery.html images="function-encoder-navigation.png" height="400" %}
