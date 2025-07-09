@@ -13,11 +13,14 @@ title: William Ward's Portfolio # This is what shows up in the tab of the browse
 
 # Hero Section
 name: William Ward
-headline: headline message
+headline: Research Engineer at UT Austin
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research Engineer at UT Austin with a strong background in designing intelligent robotic systems.
+  I hold an M.S. in Aerospace Engineering from UT Austin (May 2025) and am seeking industry opportunities 
+  in robotics R&D, guidance, navigation, and control (GNC), and software engineering.  
+  # Write an awesome intro and discuss your highlights and qualification. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/profile.JPG
