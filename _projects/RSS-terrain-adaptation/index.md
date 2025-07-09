@@ -25,7 +25,7 @@ Mobile robots driving in off-road environments face rapidly changing terrain con
 
 {% include image-gallery.html images="figure1.png" height="400" %}
 
-## Adaptation Enables Safer Model Predictive Control
+## Successful Adaptation to Challenging Ice Terrain
 * We train a function encoder on driving data from a Unity simulation.
 * At runtime, the function encoder successfully adapts to a **challenging, unknown icy terrain.**
 * The robot uses MPPI control to navigate on the ice, reaching waypoint goals while avoiding trees.  ​
@@ -34,5 +34,13 @@ Mobile robots driving in off-road environments face rapidly changing terrain con
 
 {% include image-gallery.html images="function-encoder-navigation.png" height="400" %}
 
+## Technical Contributions
+* Trained neural network dynamics models that accurately predict a robot's control response (PyTorch).
+* Integrated neural network dynamics models with an MPPI control algorthim for rapid trajectory planning (ROS).
+* Collected and processed robot trajectory data (odometry and command velocities) from a Unity-based simulator (ROS).
+
 ## Publication
 **W. Ward**, S. Etter, T. Ingebrand, C. Ellis, A. J. Thorpe, U. Topcu, "[Online Adaptation of Terrain-Aware Dynamics for Planning in Unstructured Environments](https://arxiv.org/abs/2506.04484)," RSS Workshop on Resilient Off-road Autonomous Robotics (2025).
+
+## Master's Thesis
+W. Ward, "Terrain Adaptation for Autonomous Navigation and Model Predictive Control", The University of Texas at Austin (2025). 
