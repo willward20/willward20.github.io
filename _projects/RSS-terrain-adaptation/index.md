@@ -5,11 +5,12 @@ description:  How can we estimate a robot's dynamics on unknown terrains at runt
 skills: 
 - Python
 - C++
-- ROS
+- ROS (Noetic)
 - PyTorch
 - Unity
 - Neural Networks
 - Model Predictive Control
+- Dynamics Modeling
 main-image: /robot-sim.png
 ---
 
