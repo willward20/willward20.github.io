@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Active Inverse Learning in Stackelberg Trajectory Games
-description:  short description of the project
+title: Planning Robot Actions That Reveal Human Objectives
+description:  How can robots understand human behavior without directly asking? 
+  We show that robots can act in ways that provoke humans to reveal their hidden objectives.
 skills: 
 - Julia
 - Python
