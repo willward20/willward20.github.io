@@ -29,7 +29,7 @@ Mobile robots driving in off-road environments face rapidly changing terrain con
 
 ## Successful Adaptation to Challenging Ice Terrain
 
-{% include image-gallery.html images="function-encoder-navigation.png" height="400" %}
+{% include image-gallery.html images="with-adaptation.png, without-adaptation.png" height="400" %}
 
 * We train a function encoder on driving data from a Unity simulation.
 * At runtime, the function encoder successfully adapts to a **challenging, unknown icy terrain.**
