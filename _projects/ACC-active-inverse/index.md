@@ -29,13 +29,16 @@ not voluntarily share their goals?**
 
 {% include image-gallery.html images="results.png" height="400" %}
 
-* We test our method in two scenarios: a pursuit game and a driving assistant game
+* We test our method in two scenarios: a **pursuit** game and a **driving assistant** game.
+* **Pursuit:** Follower (human) pursues one the leader's (robot's) three rovers.
+* **Driving Assistant:** Follower drives through a warehouse, tracking a trajectory suggested by the leader (a driving assistant). 
 * Across both scenarios, the leader plans control actions
-that clearly distinguish the follower's trajectories under each of its possible objectives.
+that **clearly distinguish the follower's trajectories** under each of its possible objectives.
 
 {% include youtube-video.html id="csQpXJh1SmM" autoplay= "false"%}
 
-* The video above visualizes the follower's trajectories under each of its possible objectives in Gazebo. 
+* The video above visualizes the follower's trajectories under each of its possible objectives in Gazebo.
+* The colored distributions on the ground show where the leader expects the follower to drive, depending on its objective (red, green, or blue). 
   
 
 ## Technical Contributions
