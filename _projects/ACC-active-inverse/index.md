@@ -27,7 +27,10 @@ not voluntarily share their goals?**
 
 ## Results
 
+{% include youtube-video.html id="{csQpXJh1SmM}" autoplay= "false"%}
+
 ## Technical Contributions
+* Solved optimization problems in Julia using the convex-concave procedure and the MOSEK solver. 
 
 ## Publication
 **W. Ward**, Y. Yu, J. Levy, N. Mehr, D. Fridovich-Keil, U. Topcu, "[Active Inverse Learning in Stackelberg Trajectory Games](https://arxiv.org/abs/2308.08017)," American Control Conference (2025). 
