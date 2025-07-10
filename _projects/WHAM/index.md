@@ -32,9 +32,9 @@ to process camera images and control the robot.
 
 We chose a learning-based approach to designing our autonomy software. Our
 training and testing process is outlined below. 
-1. Collect human driving data (camera images labeled with the user's steering and throttle inputs).
-2. Train a Convolution Neural Network (CNN) to correctly predict control inputs based on input images.
-3. Deploy the CNN as the robot's autopilot, processing images and outputting control actions in real time. 
+1. **Collect human driving data** (camera images labeled with the user's steering and throttle inputs).
+2. **Train a Convolution Neural Network (CNN)** to correctly predict control inputs based on input images.
+3. **Deploy the CNN as the robot's autopilot**, processing images and outputting control actions in real time. 
 
 
 ## Results
