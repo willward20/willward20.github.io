@@ -48,5 +48,5 @@ Mobile robots driving in off-road environments face rapidly changing terrain con
 
 ## Additional Details
 * Poster presented at RSS Workshop on Resilient Off-road Autonomous Robotics: [Poster](https://github.com/willward20/willward20.github.io/blob/main/_projects/RSS-terrain-adaptation/RSS-ROAR-poster.pdf)
-* ROS package for calculating MPPI rollouts using the learned model on GitHub: [willward20/mppi_rollouts](https://github.com/willward20/mppi_rollouts).
-* Function encoder training/testing software on GitHub: [ajthor/function-encoder-terrain-adaptation](https://github.com/ajthor/function-encoder-terrain-adaptation/tree/main).
+* ROS package for calculating MPPI rollouts using the learned model: [github.com/willward20/mppi_rollouts](https://github.com/willward20/mppi_rollouts).
+* Function encoder training/testing software: [github.com/ajthor/function-encoder-terrain-adaptation](https://github.com/ajthor/function-encoder-terrain-adaptation/tree/main).
