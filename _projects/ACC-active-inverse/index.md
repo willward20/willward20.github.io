@@ -27,7 +27,16 @@ not voluntarily share their goals?**
 
 ## Results
 
+{% include image-gallery.html images="results.png" height="400" %}
+
+* We test our method in two scenarios: a pursuit game and a driving assistant game
+* Across both scenarios, the leader plans control actions
+that clearly distinguish the follower's trajectories under each of its possible objectives.
+
 {% include youtube-video.html id="csQpXJh1SmM" autoplay= "false"%}
+
+* The video above visualizes the follower's trajectories under each of its possible objectives in Gazebo. 
+  
 
 ## Technical Contributions
 * Solved optimization problems in Julia using the convex-concave procedure and the MOSEK solver.
