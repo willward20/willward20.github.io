@@ -11,7 +11,7 @@ skills:
 - Gazebo
 - LQR Control
 - Game Theory
-main-image: /warehouse.png 
+main-image: /title-figure.png 
 ---
 
 ---
