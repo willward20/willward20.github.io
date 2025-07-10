@@ -30,7 +30,10 @@ not voluntarily share their goals?**
 {% include youtube-video.html id="csQpXJh1SmM" autoplay= "false"%}
 
 ## Technical Contributions
-* Solved optimization problems in Julia using the convex-concave procedure and the MOSEK solver. 
+* Solved optimization problems in Julia using the convex-concave procedure and the MOSEK solver.
+* Designed game-theoretic optimization problems for actively distinguishing follower objectives.
+* Integrated Julia code with a Julia-to-ROS communication port for deploying trajectories on rovers.
+* Created a ROS/Gazebo simulation to deploy the optimized trajectories on TurtleBots. 
 
 ## Publication
 **W. Ward**, Y. Yu, J. Levy, N. Mehr, D. Fridovich-Keil, U. Topcu, "[Active Inverse Learning in Stackelberg Trajectory Games](https://arxiv.org/abs/2308.08017)," American Control Conference (2025). 
