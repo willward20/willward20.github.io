@@ -28,14 +28,14 @@ as long as the robot was completely autonomous.
 
 ## Results
 
-{% include youtube-video.html id="aOQVNasl_Vw" autoplay= "false"%}
+{% include youtube-video.html id="SQS1NwXQrBU" autoplay= "false"%}
 
 We competed on this obstacle course at two competitions. At the first event,
 the obstacle course was outdoors and uncovered. **The video above** illustrates
 how sun exposure corrupted our robot's camera images. As a result, our robot 
 failed to complete the course. 
 
-{% include youtube-video.html id="SQS1NwXQrBU" autoplay= "false"%}
+{% include youtube-video.html id="aOQVNasl_Vw" autoplay= "false"%}
 
 **However**, at the second event, the obstacle course was built on an outdoor,
 covered tennis court. Our robot performed much better under these lighting
