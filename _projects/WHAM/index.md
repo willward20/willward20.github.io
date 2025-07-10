@@ -23,7 +23,15 @@ navigate through the obstacle course depicted above. Each team was
 free to design their robot's hardware and software however they wished, 
 as long as the robot was completely autonomous. 
 
-## Design Approach
+## Autopilot Design
+
+{% include image-gallery.html images="autopilot-loop.png" height="400" %}
+
+We chose a learning-based approach to designing our autonomous vehicle. Our
+training and testing process is outlined below.
+1. Collect human driving data (camera images labeled with the user's steering and throttle inputs).
+2. Train a Convolution Neural Network (CNN) to correctly predict control inputs based on input images.
+3. Deploy the CNN as the robot's autopilot, processing images and outputting control actions in real time. 
 
 
 ## Results
