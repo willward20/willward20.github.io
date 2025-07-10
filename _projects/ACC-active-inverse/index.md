@@ -27,7 +27,7 @@ not voluntarily share their goals?**
 
 ## Results
 
-{% include youtube-video.html id="{csQpXJh1SmM}" autoplay= "false"%}
+{% include youtube-video.html id="csQpXJh1SmM" autoplay= "false"%}
 
 ## Technical Contributions
 * Solved optimization problems in Julia using the convex-concave procedure and the MOSEK solver. 
