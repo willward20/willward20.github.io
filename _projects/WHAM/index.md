@@ -55,7 +55,11 @@ lap.
 
 
 ## Technical Contributions
-
+* Developed Python software that 
+  * Records the robot's sensor/control data (camera images, servos & motor control)
+  * Trains a neural network model to predict control actions from camera images (PyTorch)
+  * Drives the robot autonomously using the trained model as the controller
+* Hardware integration (configuring driver boards, connecting sensors/devices to the RPi)
 
 ## Additional Details
 * Source code for training and deploying our autopilot: [github.com/willward20/WHAM](https://github.com/willward20/WHAM).
