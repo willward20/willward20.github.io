@@ -16,6 +16,13 @@ main-image: /warehouse.png
 
 ---
 ## Motivation
+Robots that interact with humans must be able to anticipate and understand their behavior. 
+For example, a robot delivering medical supplies throughout a hospital must be able to 
+predict the flow of human traffic to avoid collisions and deliver on time. However, in
+many scenarios, humans don't expliclty reveal their objectives, and they may even 
+intentionally hide them. 
+
+**How can robots predict and understand the behavior of noncooperative humans?**
 
 ## Overall Framework
 
