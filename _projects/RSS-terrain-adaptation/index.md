@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Off-Road Terrain Adaptation for Mobile Robot Navigation
+title: Off-Road Terrain Adaptation for Robot Navigation
 description:  How can we estimate a robot's dynamics on unknown terrains at runtime? We developed a learned model that helps mobile robots quickly adapt to new terrain conditions, improving navigation accuracy and collision avoidance. 
 skills: 
 - Python
