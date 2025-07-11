@@ -65,6 +65,7 @@ skills:
     - Docker
     - VS Code
   - category: Robotics & Control
+    tools:
     - MPC
     - PID 
     - Path Planning (A*, Dijkstra)
@@ -72,6 +73,7 @@ skills:
     - Embedded Systems
     - Sensor Integration
   - category: Simulation & Hardware
+    tools:
     - Unity
     - IsaacSim 
     - Habitat
