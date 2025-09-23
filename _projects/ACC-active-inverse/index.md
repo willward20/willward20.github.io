@@ -23,8 +23,6 @@ many scenarios, **humans don't expliclty reveal their objectives**, and they may
 intentionally hide them. **How can robots understand the behavior of humans who do
 not voluntarily share their goals?**
 
-## Overall Framework
-
 ## Results
 
 {% include image-gallery.html images="results.png" height="400" %}
