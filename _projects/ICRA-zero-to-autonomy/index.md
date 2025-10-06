@@ -31,7 +31,7 @@ Model adapatation and model-predictive control occur simultaneously.
 
 {% include image-gallery.html images="ice_results.gif" height="400" %}
 
-* Video results coming soon!
+{% include youtube-video.html id="NaKqBcAlYgg" autoplay= "false"%}
 
 
 ## Technical Contributions
