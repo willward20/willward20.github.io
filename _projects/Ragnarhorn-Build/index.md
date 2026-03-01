@@ -8,7 +8,7 @@ skills:
 - Jetson Thor
 - Systems Integration
 - Electrical Engineering
-main-image: /action.jpg
+main-image: /action.png
 ---
 
 ---
@@ -18,8 +18,8 @@ Ragnarhorn is a high-speed off-road research platform designed to operate where 
 Powered by a NVIDIA Jetson Thor, it uses LiDAR-inertial odometry for state estimation and an onboard depth camera for real-time terrain mapping. 
 We are currently developing a terrain-aware control system that integrates perception directly into motion planning, with the goal of achieving fully autonomous navigation across aggressive, unstructured environments.
 
-{% include image-gallery.html images="front.jpeg" height="400" %}
-{% include image-gallery.html images="top_cropped_rotated.jpeg" height="400" %}
+{% include image-gallery.html images="front.jpeg" width="600" %}
+{% include image-gallery.html images="side.jpeg" width="600" %}
 
 
 ## System Components
