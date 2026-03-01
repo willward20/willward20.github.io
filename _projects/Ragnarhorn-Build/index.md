@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ragnarhorn: A High-Speed Platform for Off-Road Autonomy
-description:  Forged from a 1/6-scale RC truck, Ragnarhorn was built to conquer off-road terrain at high-speeds.
+title: Ragnarhorn the Resilient
+description:  Forged from a 1/6-scale RC truck, Ragnarhorn is built to conquer off-road terrain at high-speeds.
 skills: 
 - Python
 - ROS 2 (Jazzy)
