@@ -44,14 +44,13 @@ training and testing process is outlined below.
 We competed on this obstacle course at two competitions. At the first event,
 the obstacle course was outdoors and uncovered. **The video above** illustrates
 how sun exposure corrupted our robot's camera images. As a result, our robot 
-failed to complete the course. 
-
-{% include youtube-video.html id="aOQVNasl_Vw" autoplay= "false"%}
-
-**However**, at the second event, the obstacle course was built on an outdoor,
+failed to complete the course. **However**, at the second event, the obstacle course was built on an outdoor,
 covered tennis court. Our robot performed much better under these lighting
-conditions, and **our team won first place.** The **video above** shows the winning
-lap. 
+conditions, and **our team won first place.** 
+
+<!-- {% include youtube-video.html id="aOQVNasl_Vw" autoplay= "false"%} -->
+
+
 
 
 ## Technical Contributions
