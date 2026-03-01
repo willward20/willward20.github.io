@@ -15,9 +15,12 @@ title: William Ward's Portfolio # This is what shows up in the tab of the browse
 name: William Ward
 headline: Research Engineer at UT Austin
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Research Engineer at UT Austin with a strong background in designing intelligent robotic systems.
-  I hold an M.S. in Aerospace Engineering from UT Austin (May 2025) and am seeking industry opportunities 
-  in robotics R&D, guidance, navigation, and control (GNC), and software engineering.  
+  I design robotic systems that operate at the edge of performance,
+  currently focused on terrain-aware, high-speed off-road autonomy. 
+  I hold an M.S. in Aerospace Engineering from The University of Texas at Austin, 
+  specializing in learning-based dynamics modeling and model predictive control for ground rovers. 
+  I’m seeking industry roles in robotics R&D and software engineering
+  where I can build systems that must think and act reliably under demanding physical constraints.
 
 # Write an awesome intro and discuss your highlights and qualification. You can edit this
 # line in _config.yml. It will appear in your document head meta (for
