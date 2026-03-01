@@ -20,8 +20,8 @@ We are currently developing a terrain-aware control system that integrates perce
 
 
 ## System Components
-{% include image-gallery.html images="front.jpeg" width="600" %}
-{% include image-gallery.html images="side.jpeg" width="600" %}
+{% include image-gallery.html images="front.jpeg" width="800" %}
+{% include image-gallery.html images="side.jpeg" width="800" %}
 
 Ragnarhorn is built from a Traxxas X-Maxx chassis, upgraded with a Castle Mamba X ESC and sensored motor for improved telemetry and controllability. A RadioMaster MT12 transmitter communicates through an ExpressLRS ER6 receiver and Castle Serial Link, enabling reliable teleoperation. The Jetson Thor can also issue drive commands directly to the ER6 via USB-to-UART, allowing seamless switching between manual and autonomous control.
 
