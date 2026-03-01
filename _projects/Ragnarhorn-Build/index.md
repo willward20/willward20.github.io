@@ -14,7 +14,7 @@ main-image: /action.png
 ---
 ## Summary
 
-Ragnarhorn is a high-speed off-road research platform designed to operate where terrain variability pushes robotics systems to their limits.
+Ragnarhorn (named after Ragnarok, the apocalyptic event from Norse mythology, and the Texas Longhorn, our UT Austin mascot) is a high-speed off-road research platform designed to operate where terrain variability pushes robotics systems to their limits.
 Powered by a NVIDIA Jetson Thor, it uses LiDAR-inertial odometry for state estimation and an onboard depth camera for real-time terrain mapping. 
 We are currently developing a terrain-aware control system that integrates perception directly into motion planning, with the goal of achieving fully autonomous navigation across aggressive, unstructured environments.
 
